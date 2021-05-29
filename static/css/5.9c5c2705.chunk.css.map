@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/itemList/itemList.module.css"],"names":[],"mappings":"AAAA,0BACE,QAAS,CAET,kBAAkB,CAClB,eACF","file":"5.9c5c2705.chunk.css","sourcesContent":[".itemList {\n  margin: 0;\n  padding: 0;\n  padding-left: 20px;\n  list-style: none;\n}\n"]}
